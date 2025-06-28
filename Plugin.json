@@ -1,5 +1,115 @@
 [
     {
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/refs/heads/master/Bollyflix/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 24458,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 21,
+        "internalName": "Bollyflix",
+        "description": "Movies and Series upto 4K",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Bollyflix.cs3",
+        "name": "Bollyflix"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.jpg",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 298142,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime",
+            "Torrent",
+            "Live"
+        ],
+        "version": 171,
+        "internalName": "CineStream",
+        "description": "One stop solution for Movies, Series, Anime, Livetv, AsianDrama and Torrents",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
+        "name": "CineStream"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/master/CinevezProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 11550,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "CinevezProvider",
+        "description": "This website support Hindi/English/Kannada/Malayalam/Tamil/Telugu",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CinevezProvider.cs3",
+        "name": "CinevezProvider"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/Extractors/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 38541,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AsianDrama",
+            "Anime"
+        ],
+        "version": 63,
+        "internalName": "Extractors",
+        "description": "Must Install(For other extensions to work properly)",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/Extractors.cs3",
+        "name": "Extractors"
+    },
+    {
+        "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/NetflixMirrorProvider/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
+        "fileSize": 42583,
+        "status": 1,
+        "authors": [
+            "megix",
+            "CodeAxella"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 24,
+        "internalName": "NetflixMirrorProvider",
+        "description": "Netflix, PrimeVideo, Disney Hotstar Content in Multiple Languages",
+        "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/NetflixMirrorProvider.cs3",
+        "name": "NetflixMirrorProvider"
+    }
+    {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Coflix.png",
         "jarFileSize": 121244,
         "apiVersion": 1,
@@ -23,47 +133,41 @@
         "name": "Coflix"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
-        "jarFileSize": 110071,
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.to&size=%size%",
+        "jarFileSize": 156245,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 24980,
+        "fileSize": 28812,
         "status": 1,
-        "language": "en",
+        "language": "hi",
         "authors": [
-            "Phisher98,Hexated,Peerless,CodeAxella"
+            "Phisher98"
         ],
         "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Anime",
-            "Movie"
+            "Movie",
+            "TvSeries"
         ],
-        "version": 10,
+      "version": 10,
         "internalName": "KisskhProvider",
         "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.jar",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/KisskhProvider.cs3",
         "name": "KisskhProvider"
     },
     {
-        "iconUrl": "https://i3.wp.com/yt3.googleusercontent.com/ytc/AIdro_nCBArSmvOc6o-k2hTYpLtQMPrKqGtAw_nC20rxm70akA=s900-c-k-c0x00ffffff-no-rj?ssl=1",
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv7.lk21.am.in&sz=%size%",
+        "jarFileSize": 84949,
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 697619,
+        "fileSize": 19496,
         "status": 1,
-        "language": "en",
+        "language": "id",
         "authors": [
-            "Phisher98",
-            "Hexated",
-            "CodeAxella"
+            "Hexated,Phisher98"
         ],
         "tvTypes": [
             "AsianDrama",
             "TvSeries",
-            "Anime",
-            "Movie",
-            "Cartoon",
-            "AnimeMovie"
+            "Movie"
         ],
         "version": 327,
         "internalName": "StreamPlay",
@@ -72,22 +176,22 @@
         "name": "StreamPlay"
     },
     {
-        "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.showbox.media/&size=256",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 94965,
+        "fileSize": 97751,
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98",
-            "CodeAxella"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Movie",
-            "Torrent",
             "AsianDrama",
             "TvSeries",
-            "Anime"
+            "Anime",
+            "Movie",
+            "Cartoon",
+            "AnimeMovie"
         ],
         "version": 29,
         "internalName": "TorraStream",
@@ -103,8 +207,7 @@
         "status": 1,
         "language": "en",
         "authors": [
-            "Phisher98",
-            "CodeAxella"
+            "Phisher98"
         ],
         "tvTypes": [
             "Movie",
@@ -115,5 +218,20 @@
         "description": "Indian Multi-language 4K Provider",
         "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
         "name": "UHDmoviesProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=watchmmafull.com/&sz=%size%",
+        "jarFileSize": 80756,
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+        "fileSize": 16624,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Phisher98"
+        ],
+        "tvTypes": [
+            "Other",
+            "Live"
     }
 ]

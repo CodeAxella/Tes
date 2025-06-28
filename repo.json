@@ -3,6 +3,6 @@
   "description": "CodeAxella Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/CodeAxella/Tes/refs/heads/main/Plugin.json"
+    "https://raw.githubusercontent.com/CodeAxella/CodeAxella-CloudStream-Phisher/refs/heads/builds/plugins.json"
   ]
 }

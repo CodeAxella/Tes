@@ -1,0 +1,8 @@
+{
+  "name": "CodeAxella Movies",
+  "description": "CodeAxella Repository",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://codeberg.org/CodeAxella/PluginAxellaaa/raw/branch/main/plugins.json"
+  ]
+}

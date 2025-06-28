@@ -1,8 +1,8 @@
 {
-  "name": "CodeAxella Movies",
+  "name": "CodeAxella Movie",
   "description": "CodeAxella Repository",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/CodeAxella/Tes/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/CodeAxella/Tes/refs/heads/main/Plugin.json"
   ]
 }
